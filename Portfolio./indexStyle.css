@@ -1,0 +1,19 @@
+h1{font-family: 'Gloria Hallelujah', cursive;}
+h2{font-family: 'Gloria Hallelujah', cursive;}
+h1{color:dimgray;}
+h2 {color:mediumpurple}
+body {
+    background-color:azure;
+}
+
+p=1 {
+    font-size: 40px;
+}
+
+p=2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 14px;
+}
