@@ -1,10 +1,14 @@
-h1{font-family: 'Gloria Hallelujah', cursive;}
-p{font-family: 'Gloria Hallelujah', cursive;}
-li{font-family: 'Gloria Hallelujah', cursive;}
-h1{color:dimgray;}
-p{color:mediumpurple}
-li{color:darkcyan}
-
+h1{font-family: 'Comfortaa', cursive;}
+p{font-family: 'Comfortaa', cursive;}
+li{font-family: 'Comfortaa', cursive;}
+h1{color:black;}
+p{color:black}
+li{color:black}
 body {
     background-color:azure;
+	text-align:left;
+}
+font-family: 'Concert One', cursive;
+div.a {
+    line-height: normal;
 }
