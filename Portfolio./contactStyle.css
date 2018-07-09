@@ -1,8 +1,20 @@
-h1{font-family: 'Gloria Hallelujah', cursive;}
-h2{font-family: 'Gloria Hallelujah', cursive;}
-h1{color:dimgray;}
-h2 {color:mediumpurple}
+h1{
+	font-size: 55px;
+	font-family: 'Comfortaa', cursive;
+	color:black
+}
+h2{
+	font-family: 'Comfortaa', cursive;
+}
+h2 {
+	color:mediumpurple
+}
+nav{
+	font-size: 25px;
+}
+
 	
 body {
-    background-color: azure;
+	background-color:azure;
 }
+

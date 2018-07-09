@@ -1,19 +1,21 @@
-h1{font-family: 'Gloria Hallelujah', cursive;}
-h2{font-family: 'Gloria Hallelujah', cursive;}
-h1{color:dimgray;}
-h2 {color:mediumpurple}
+h1{font-family: 'Comfortaa', cursive;}
+h2{font-family: 'Comfortaa', cursive;}
+
+h1{
+	font-size: 55px;
+	color:black;
+}
+
+h2 {
+	font-size: 35px;
+	color:mediumpurple
+}
+nav {
+	font-size: 25px;
+}
 body {
     background-color:azure;
+	text-align: center;
 }
 
-p=1 {
-    font-size: 40px;
-}
-
-p=2 {
-    font-size: 30px;
-}
-
-p {
-    font-size: 14px;
-}
+font-family: 'Concert One', cursive;

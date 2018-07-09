@@ -1,14 +1,19 @@
-h1{font-family: 'Comfortaa', cursive;}
-p{font-family: 'Comfortaa', cursive;}
-li{font-family: 'Comfortaa', cursive;}
-h1{color:black;}
-p{color:black}
-li{color:black}
+h1{
+	font-size: 55px;
+	font-family: 'Comfortaa', cursive;
+}
+p{
+	font-family: 'Comfortaa', cursive;
+	font-size: 25px;
+}
+li{
+	font-family: 'Comfortaa', cursive;
+}
+
 body {
     background-color:azure;
-	text-align:left;
+}
+nav{
+	font-size: 25px;
 }
 font-family: 'Concert One', cursive;
-div.a {
-    line-height: normal;
-}
